@@ -2,6 +2,7 @@
 ![shelter](https://user-images.githubusercontent.com/25439780/98337315-40a1e880-202a-11eb-9777-0b04441b09e3.jpg)
 
 ## Сайт питомника для животных
+#### https://rolling-scopes-school.github.io/domask2-JS2020Q3/shelter/pages/main/main.html
 
 ## Особенности
 - ### Slider
@@ -11,6 +12,7 @@
 - ### Popup 
   <p>Карточки питомцев интерактивы.</p>
 - ### Responsive
+- ### Multi-page website
 
 ## Используемые технологии
 <p>
@@ -19,5 +21,4 @@
 <code><img alt="CSS3" height="40px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code>
 </p>
 
-## Shelter Deploy
-#### https://rolling-scopes-school.github.io/domask2-JS2020Q3/shelter/pages/main/main.html
+
