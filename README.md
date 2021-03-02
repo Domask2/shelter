@@ -19,4 +19,5 @@
 <code><img alt="CSS3" height="40px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code>
 </p>
 
-Shelter: https://rolling-scopes-school.github.io/domask2-JS2020Q3/shelter/pages/main/main.html
+## Shelter Deploy
+#### https://rolling-scopes-school.github.io/domask2-JS2020Q3/shelter/pages/main/main.html
