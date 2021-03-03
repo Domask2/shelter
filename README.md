@@ -14,7 +14,7 @@
 - ### Responsive
 - ### Multi-page website
 
-## Technology stack
+## Используемые технологии
 <p>
 <code><img alt="JavaScript" height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code>
 <code><img alt="HTML5" height="40px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code>
